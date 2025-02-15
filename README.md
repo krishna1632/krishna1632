@@ -9,10 +9,11 @@
 
 ---
 
-## 🎼 *About Me*  
+## 💼 *About Me*  
 - 🔟 Currently working on *Full-Stack Web Projects* and diving deep into *Blockchain*  
 - 🌱 Learning: *Advanced Laravel, Web3, and React Native*  
-- 👮‍♂️ Ask me about *Full-Stack Development, Blockchain, Laravel, and React*  
+- 📧 Reach me at: *[LinkedIn](https://www.linkedin.com/in/krishna/)*  
+- 💬 Ask me about *Full-Stack Development, Blockchain, Laravel, and React*  
 
 ---
 
@@ -34,23 +35,23 @@
 
 ---
 
-## 📊 *GitHub Analytics*  
+## 💊 *GitHub Analytics*  
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=krishna&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna&theme=radical" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=krishna1632&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna1632&theme=radical" alt="GitHub Streak" />
 </div>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna1632&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ## 🌐 *Connect with Me*  
 <div align="center">
-  <a href="https://krishna.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://krishna1632.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/krishna/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/krishna/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/krishna/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/krishna1632/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/krishna1632"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
 ---
@@ -64,3 +65,4 @@
 
 ## ✨ *Thank You for Visiting!*  
 🌟 *Feel free to star my repositories and connect with me!* 😊
+
